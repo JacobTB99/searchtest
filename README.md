@@ -1,4 +1,4 @@
-### Sequential Search Test
+# Sequential Search Test
 ## Author: Jacob Beauchamp
 ## Date: March, 26, 2019
 ---
